@@ -7,7 +7,7 @@
 
 ### OVERVIEW
 
-
+IMAGES/studio set.jpg
 
 ### BUSINESS PROBLEM
 
