@@ -1,4 +1,5 @@
-# Phase 1 Project
+# Phase 1 Project-MICROSOFT MOVIE STUDIO ANALYSIS
+AUTHORS: JULLIET ISWANA
 
 
 
