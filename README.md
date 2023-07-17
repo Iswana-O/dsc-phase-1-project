@@ -1,5 +1,9 @@
 # Phase 1 Project-MICROSOFT MOVIE STUDIO ANALYSIS
-AUTHORS: JULLIET ISWANA
+#Student name: JULLIET ISWANA
+#Student pace: part time 
+#Scheduled project review date/time:
+#TM name:ASHA DEEN
+
 
 
 
