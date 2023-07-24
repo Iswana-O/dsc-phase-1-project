@@ -31,6 +31,7 @@ TheMovieDB
 
 The Numbers
 
+I did an Analysis on the combined data sets (tmdb_movies_budgets_df(TMDB dataset) and movies_df(IMDB dataset)) seeking to answer key questions that will help Microsoft Studio make the right decisions. I am seeking to understand the most produced genres of movies, the correlation between the production budgets and revenue
 ###  RESULTS
 
 
