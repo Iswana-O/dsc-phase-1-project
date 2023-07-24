@@ -37,8 +37,15 @@ In the analysis, I am also examining the impact of Release Timing on a movie's s
 
 ###  RESULTS
 
+## TOP GENRES AND RATINGS
 
+![](/IMAGES/Distribution%20of%20Movie%20Genres.png)
 
+![](/IMAGES/Top%20Genres%20with%20Highest%20Average%20Ratings.png)
+
+![](/IMAGES/Average%20Box%20office%20Performance%20by%20Release%20Month.png)
+
+[](/IMAGES/Average%20Popularity%20by%20Original%20Language.png)
 
 
 
