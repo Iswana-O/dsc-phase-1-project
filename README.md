@@ -52,7 +52,6 @@ These factors include:
 ![](/IMAGES/Top%20Genres%20with%20Highest%20Average%20Ratings.png)
 
 
-
 2. Strong Financial Management: Successful studios are adept at managing budgets and financial resources effectively. 
 They strike a balance between investing in high-budget blockbusters and smaller, riskier projects that may have the potential for significant returns.
 Optimize the movie's budget to allocate resources efficiently. High-quality production values are essential, but excessive spending doesn't always guarantee success. Comparing Avatar and Avengers Age of Ultron both have relatively higher(close to $500M) and comparable budgets but the profit for Avatar is significantly higher.
@@ -72,7 +71,15 @@ Optimize the movie's budget to allocate resources efficiently. High-quality prod
    In the below analysis, I am examining the impact of Release Timing on a movie's success, along with other factors like budget and release month.
 ![](/IMAGES/Average%20Box%20office%20Performance%20by%20Release%20Month.png)
 
-4. Adaptability and Innovation: The film industry is constantly evolving, and successful studios are quick to adapt to changing market trends and technologies.
+5. Award Recognition: While not the sole indicator of success, receiving critical acclaim and awards for their films can enhance a studio's reputation and potentially boost box office performance.
+   Recognition is influenced by the average ratings a movie gets. From the data set, most movies receive a mean rating of 6.261905 . The average rating has been increasing throughout the years peaking in 2018 while the number of votes reducing  therefore could  signify that  the competitors have significantly improved the quality of movies produced. Also indicating that the target audience is becoming niche It is Important to be aware as they get into film industry
+![](/IMAGES/Average%20Rating%20Over%20the%20Years.png)
+
+![](/IMAGES/Number%20of%20Votes%20over%20the%20Years.png)
+
+![](/IMAGES/Correlation%20Between%20Rating%2CVotes%20and%20Runtime.png)
+
+5. Adaptability and Innovation: The film industry is constantly evolving, and successful studios are quick to adapt to changing market trends and technologies.
    Embracing new filmmaking techniques, distribution methods, and consumer preferences can give a studio a competitive edge. In the analysis I am exploring the performance of movies based on their original language, considering metrics such as popularity, vote_average, and vote_count. Microsoft need not restrict production to only English. Movies can be diversified and produced in different languages and can be translated into others based on demand
 
 ![](/IMAGES/Average%20Popularity%20by%20Original%20Language.png)
