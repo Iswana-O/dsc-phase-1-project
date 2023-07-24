@@ -100,4 +100,10 @@ Optimize the movie's budget to allocate resources efficiently. High-quality prod
 
 
 ## Summary
+Overall,  from the data, Microsoft Studio can increase its chances of success by producing high-quality content across various genres, effectively managing its finances, implementing strong marketing and distribution strategies, aiming for award recognition, and staying adaptable and innovative in the ever-changing film industry. However, I would not recommend Microsoft setting up a new movie yet since there are other options available;
+They can opt to Purchase existing content and can provide immediate access to popular titles
+Microsoft can partner with content and studio providers to license rights for other titles.
+intellectual Property (IP) Management: Microsoft can start Building and managing valuable intellectual properties, such as successful franchises or book adaptations prior to setting up studio first
+Further Research- analyze more recent data for the film industry
+
 
