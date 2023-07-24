@@ -31,7 +31,7 @@ TheMovieDB
 
 The Numbers
 
-I did an Analysis on the combined data sets (tmdb_movies_budgets_df(TMDB dataset) and movies_df(IMDB dataset)) seeking to answer key questions that will help Microsoft Studio make the right decisions. I am seeking to understand the most produced genres of movies, and the correlation between the production budgets and revenue.
+I did an Analysis on the combined data sets (tmdb_movies_budgets_df(TMDB dataset) and movies_df(IMDB dataset)) seeking to answer key questions that will help Microsoft Studio make the right decisions. I am seeking to understand the most produced genres of movies and the correlation between the production budgets and revenue.
 
 In the analysis, I am also examining the impact of Release Timing on a movie's success, along with other factors like budget and release month.
 
@@ -40,7 +40,7 @@ In the analysis, I am also examining the impact of Release Timing on a movie's s
 ### TOP GENRES AND RATINGS.
 A successful movie studio is typically characterized by several key factors that contribute to its achievements and long-term viability
 These factors include:
-1. High-Quality Content: Producing films that resonate with audiences and critics alike is crucial. Consistently delivering well-made, engaging, and innovative movies. It was important to analyze the genres' distribution and their ratings so Microsoft Studio can produce movies that captivate viewers and leave a lasting impression.Drama and commedy are the most commonly produced movies. Microsoft should be keen on how the distibution of the produced movies and can opt to combine popularly produced genres with most votes like drama and top genres with highest averange ratings which can be a viable strategy for their movie studio
+1. High-Quality Content: Producing films that resonate with audiences and critics alike is crucial. Consistently delivering well-made, engaging, and innovative movies. It was important to analyze the genres' distribution and their ratings so Microsoft Studio can produce movies that captivate viewers and leave a lasting impression. Drama and comedy are the most commonly produced movies. Microsoft should be keen on how the distribution of the produced movies and can opt to combine popularly produced genres with the most votes like drama and top genres with the highest average ratings which can be a viable strategy for their movie studio
 
     A successful movie studio understands the importance of diversifying its film portfolio. 
  By producing a range of genres and styles, the studio can attract different audience demographics and increase its potential market reach
@@ -51,9 +51,31 @@ These factors include:
 
 ![](/IMAGES/Top%20Genres%20with%20Highest%20Average%20Ratings.png)
 
+
+
+2. Strong Financial Management: Successful studios are adept at managing budgets and financial resources effectively. 
+They strike a balance between investing in high-budget blockbusters and smaller, riskier projects that may have the potential for significant returns.
+Optimize the movie's budget to allocate resources efficiently. High-quality production values are essential, but excessive spending doesn't always guarantee success. Comparing Avatar and Avengers Age of Ultron both have relatively higher(close to $500M) and comparable budgets but the profit for Avatar is significantly higher.
+
+   In the Correlation analysis of budgets and revenue: The positive sign indicates that there is a positive relationship between the two variables. As the production budget increases, the domestic gross tends to increase as well. This suggests that movies with higher production budgets are more likely to generate higher domestic grosses at the box office. Like the domestic gross the positive sign indicates a positive relationship between the production budget and the worldwide gross which tends to increase as when the production budget increases. This implies that movies with higher production budgets are more likely to generate higher worldwide grosses at the box office.
+
+   The strong positive correlation between production budget and worldwide gross can be seen as an opportunity for Microsoft movie studios.
+   Allocating larger budgets to movies with higher potential can lead to increased worldwide grosses and better returns on investment. While a strong correlation indicates a robust relationship between the variables.
+
+![](/IMAGES/Top%2030%20Movies%20Net%20Profit.png)
+
+![](/IMAGES/Correlation%20between%20Production%20Budget%20and%20Domestic%20Gross.png)
+
+![](/IMAGES/Correlation%20between%20Production%20Budget%20and%20worldwide_gross%20Gross.png)
+
+3. Effective Marketing and Distribution: Even the best films need effective marketing and distribution strategies to reach their intended audience. Release Timing is an important part of marketing and distribution.
+   In the below analysis, I am examining the impact of Release Timing on a movie's success, along with other factors like budget and release month.
 ![](/IMAGES/Average%20Box%20office%20Performance%20by%20Release%20Month.png)
 
-[](/IMAGES/Average%20Popularity%20by%20Original%20Language.png)
+4. Adaptability and Innovation: The film industry is constantly evolving, and successful studios are quick to adapt to changing market trends and technologies.
+   Embracing new filmmaking techniques, distribution methods, and consumer preferences can give a studio a competitive edge. In the analysis I am exploring the performance of movies based on their original language, considering metrics such as popularity, vote_average, and vote_count. Microsoft need not restrict production to only English. Movies can be diversified and produced in different languages and can be translated into others based on demand
+
+![](/IMAGES/Average%20Popularity%20by%20Original%20Language.png)
 
 
 
