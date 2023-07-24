@@ -37,7 +37,15 @@ In the analysis, I am also examining the impact of Release Timing on a movie's s
 
 ###  RESULTS
 
-## TOP GENRES AND RATINGS
+### TOP GENRES AND RATINGS.
+A successful movie studio is typically characterized by several key factors that contribute to its achievements and long-term viability
+These factors include:
+1. High-Quality Content: Producing films that resonate with audiences and critics alike is crucial. Consistently delivering well-made, engaging, and innovative movies. It was important to analyze the genres' distribution and their ratings so Microsoft Studio can produce movies that captivate viewers and leave a lasting impression.Drama and commedy are the most commonly produced movies. Microsoft should be keen on how the distibution of the produced movies and can opt to combine popularly produced genres with most votes like drama and top genres with highest averange ratings which can be a viable strategy for their movie studio
+
+    A successful movie studio understands the importance of diversifying its film portfolio. 
+ By producing a range of genres and styles, the studio can attract different audience demographics and increase its potential market reach
+
+
 
 ![](/IMAGES/Distribution%20of%20Movie%20Genres.png)
 
