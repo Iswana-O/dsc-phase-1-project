@@ -2,7 +2,7 @@
 ## Student name: JULLIET ISWANA
 ## Student pace: part time 
 ## Scheduled project review date/time:
-## TM name:ASHA DEEN
+
 
 
 ### OVERVIEW
@@ -72,12 +72,17 @@ Optimize the movie's budget to allocate resources efficiently. High-quality prod
 ![](/IMAGES/Average%20Box%20office%20Performance%20by%20Release%20Month.png)
 
 5. Award Recognition: While not the sole indicator of success, receiving critical acclaim and awards for their films can enhance a studio's reputation and potentially boost box office performance.
-   Recognition is influenced by the average ratings a movie gets. From the data set, most movies receive a mean rating of 6.261905 . The average rating has been increasing throughout the years peaking in 2018 while the number of votes reducing  therefore could  signify that  the competitors have significantly improved the quality of movies produced. Also indicating that the target audience is becoming niche It is Important to be aware as they get into film industry
+   Recognition is influenced by the average ratings a movie gets. From the data set, most movies receive a mean rating of 6.261905. The average rating has been increasing throughout the years peaking in 2018 while the number of votes reducing  therefore could  signify that  the competitors have significantly improved the quality of movies produced. Also indicates that the target audience is becoming niche It is important to be aware as they get into the film industry
+   There is a Moderate Positive correlation of 0.4 between the number of votes and average ratings; when the number of votes increases, average ratings increase moderately. There is minimal close to zero correlation between the runtime in minutes  and average ratings of movies. However, it is important for Microsoft Studio to note that Average Runtime over the Years has been increasing
+
+
 ![](/IMAGES/Average%20Rating%20Over%20the%20Years.png)
 
 ![](/IMAGES/Number%20of%20Votes%20over%20the%20Years.png)
 
 ![](/IMAGES/Correlation%20Between%20Rating%2CVotes%20and%20Runtime.png)
+
+![](/IMAGES/Average%20Runtime%20over%20the%20Years.png)
 
 5. Adaptability and Innovation: The film industry is constantly evolving, and successful studios are quick to adapt to changing market trends and technologies.
    Embracing new filmmaking techniques, distribution methods, and consumer preferences can give a studio a competitive edge. In the analysis I am exploring the performance of movies based on their original language, considering metrics such as popularity, vote_average, and vote_count. Microsoft need not restrict production to only English. Movies can be diversified and produced in different languages and can be translated into others based on demand
