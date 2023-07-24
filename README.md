@@ -31,9 +31,13 @@ TheMovieDB
 
 The Numbers
 
-I did an Analysis on the combined data sets (tmdb_movies_budgets_df(TMDB dataset) and movies_df(IMDB dataset)) seeking to answer key questions that will help Microsoft Studio make the right decisions. I am seeking to understand the most produced genres of movies and the correlation between the production budgets and revenue.
-
-In the analysis, I am also examining the impact of Release Timing on a movie's success, along with other factors like budget and release month.
+The data available was in CSV and TSV formats. I made use of Python Libraries such as Pandas to read data into data frames. Represented tabular data with an integrated index, so data can be selected a manipulated using rows or columns. For visualization, I made use of matplotlib and seaborn libraries. Data cleaning formed  the foundation for exploring the data. Once I identified the data I wanted to work with, I converted data to the correct data types especially numeric data, deleted duplicates, and also deleted unwanted columns from some tables.  I merged the 11 data frames into 2 combined data sets (tmdb_movies_budgets_df(TMDB dataset) and movies_df(IMDB dataset)) seeking to answer key questions that will help Microsoft Studio make the right decisions.
+ Below are the questions that guided my analysis:
+ 1. How does Microsoft Studio ensure the consistent production of high-quality content that resonates with both audiences and critics? What strategies can they adopt to gauge the success of their movies based on genre distribution and ratings?
+ 2. How can Microsoft Studio strike a balance between investing in high-budget blockbusters and smaller, riskier projects? What financial management practices should they employ to optimize movie budgets and maximize returns on investment?
+ 3. What marketing and distribution strategies should Microsoft Studio employ to ensure their films reach their intended audience effectively? How can they use release timing, along with other factors like budget and release month, to boost a movie's success?
+ 4. How important is award recognition for the long-term viability of a movie studio? How can Microsoft Studio work towards achieving critical acclaim and awards for their films, considering the changing trends in audience preferences and increasing competition in the industry?
+ 5. How can Microsoft Studio embrace adaptability and innovation to stay ahead in the constantly evolving film industry? What steps can they take to diversify their film portfolio by producing movies in different languages to reach wider markets and demographics?
 
 ###  RESULTS
 
