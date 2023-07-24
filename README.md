@@ -85,7 +85,7 @@ Optimize the movie's budget to allocate resources efficiently. High-quality prod
 ![](/IMAGES/Average%20Runtime%20over%20the%20Years.png)
 
 5. Adaptability and Innovation: The film industry is constantly evolving, and successful studios are quick to adapt to changing market trends and technologies.
-   Embracing new filmmaking techniques, distribution methods, and consumer preferences can give a studio a competitive edge. In the analysis I am exploring the performance of movies based on their original language, considering metrics such as popularity, vote_average, and vote_count. Microsoft need not restrict production to only English. Movies can be diversified and produced in different languages and can be translated into others based on demand
+   Embracing new filmmaking techniques, distribution methods, and consumer preferences can give a studio a competitive edge. In the analysis I am exploring how consumer preferences can give Microsoft an edge by reaching wider markets.  the analysis is centered around the performance of movies based on their original language, considering metrics such as popularity, vote_average, and vote_count. Microsoft need not restrict production to only English. Movies can be diversified and produced in different languages and can be translated into others based on demand
 
 ![](/IMAGES/Average%20Popularity%20by%20Original%20Language.png)
 
