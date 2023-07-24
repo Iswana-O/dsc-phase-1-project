@@ -19,7 +19,17 @@ Microsoft's decision to venture into the movie industry presents exciting opport
 
 
 ### THE DATA
+11 Datasets were compiled by the school for the project from the below sources for this analysis:
 
+Box Office Mojo
+
+IMDB
+
+Rotten Tomatoes
+
+TheMovieDB
+
+The Numbers
 
 ###  RESULTS
 
